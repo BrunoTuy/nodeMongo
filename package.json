@@ -1,6 +1,6 @@
 {
   "name": "nodeMongo",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Código para testes de conexão com o mongoDB",
   "contributors": [
     {
@@ -11,6 +11,7 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "mongojs": "^2.4.0",
     "mongoose": "^4.9.2"
   }
 }
